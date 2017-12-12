@@ -1,6 +1,6 @@
 ## Indecision App 
 
-A follow along React project from Udemy's "Complete React Developer Course with Redux". 
+A follow along project from Udemy's `Complete React Developer Course with Redux` 
 
 This project was a lot of fun with plenty of hands on practice and challenges spread throughout the course. Specifically, I enjoyed the modules on ES6 syntax, managing state in an application with React, passing properties from one component to another, and conditional rendering with JSX. 
 
@@ -10,15 +10,15 @@ This project was a lot of fun with plenty of hands on practice and challenges sp
 
 Clone this repository by running the following command in your terminal:
 
-`git clone git@github.com:christiangallego/Change-Calculator.git`
+### `git clone git@github.com:christiangallego/Change-Calculator.git`
 
 Then download the project dependencies by running this command in your terminal:
 
-`npm install`
+### `npm install`
 
 In the project directory, you can run:
 
-`npm start`
+### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
