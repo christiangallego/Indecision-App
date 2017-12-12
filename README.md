@@ -2,7 +2,7 @@
 
 A follow along project from Udemy's `Complete React Developer Course with Redux`.
 
-This project was a lot of fun with plenty of hands on practice and challenges spread throughout the course. Specifically, I enjoyed the modules on ES6 syntax, managing state in an application with React, passing properties from one component to another, and conditional rendering with JSX. 
+This project was a lot of fun with plenty of hands on practice and challenges spread throughout the course. Specifically, I enjoyed the modules on ES6 syntax, managing state in an application with React, passing properties between components, and conditional rendering with JSX. 
 
 ## Getting Started
 
